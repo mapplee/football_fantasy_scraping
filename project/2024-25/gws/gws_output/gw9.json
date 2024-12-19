@@ -1,0 +1,5362 @@
+[
+    {
+        "GW": null,
+        "name": "Alex Scott",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Miguel dos Santos Pereira",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tomiyasu Takehiro",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Malcolm Ebiowei",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Brereton Díaz",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pau Torres",
+        "team": "Aston Villa",
+        "total_points": "2",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joel Ward",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Will Lankshear",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Hwang Hee-chan",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mikey Moore",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Hákon Valdimarsson",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alex Paulsen",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "João Victor Gomes da Silva",
+        "team": "Wolves",
+        "total_points": "2",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Cole Palmer",
+        "team": "Chelsea",
+        "total_points": "10",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mitoma Kaoru",
+        "team": "Brighton",
+        "total_points": "2",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Boubakary Soumaré",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Chris Wood",
+        "team": "Nott'm Forest",
+        "total_points": "13",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joe Worrall",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jeffrey Schlupp",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Milos Kerkez",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Adrian Mazilu",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jason Steele",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Arijanet Muric",
+        "team": "Ipswich",
+        "total_points": "2",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harvey Davies",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Carl Rushworth",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ibrahim Sangaré",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Hannibal Mejbri",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Brandon Austin",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Conor Coady",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Wes Foderingham",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Armando Broja",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Adam Webster",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Thomas Partey",
+        "team": "Arsenal",
+        "total_points": "2",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Harry Wilson",
+        "team": "Fulham",
+        "total_points": "1",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kasey McAteer",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Curtis Jones",
+        "team": "Liverpool",
+        "total_points": "2",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Wes Burns",
+        "team": "Ipswich",
+        "total_points": "1",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Gustavo Nunes Fernandes Gomes",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Yunus Emre Konak",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Max Kilman",
+        "team": "West Ham",
+        "total_points": "2",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Deniz Undav",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alex Murphy",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "George Edmundson",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sávio 'Savinho' Moreira de Oliveira",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emerson Palmieri dos Santos",
+        "team": "West Ham",
+        "total_points": "1",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Abdoulaye Doucouré",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alfie Pond",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "José Malheiro de Sá",
+        "team": "Wolves",
+        "total_points": "2",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alexander Isak",
+        "team": "Newcastle",
+        "total_points": "6",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Yves Bissouma",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Conor Gallagher",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Philip Billing",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Gonçalo Manuel Ganchinho Guedes",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Brajan Gruda",
+        "team": "Brighton",
+        "total_points": "1",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Rodrigo 'Rodri' Hernandez",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Đorđe Petrović",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Justin Devenny",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Craig Dawson",
+        "team": "Wolves",
+        "total_points": "4",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jordan Ayew",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marcos Senesi",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kiernan Dewsbury-Hall",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kaine Kesler-Hayden",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "João Cavaco Cancelo",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Maxwel Cornet",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jefferson Lerma Solís",
+        "team": "Crystal Palace",
+        "total_points": "1",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jannik Vestergaard",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luke Thomas",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bruno Borges Fernandes",
+        "team": "Man Utd",
+        "total_points": "2",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Adam Smith",
+        "team": "Bournemouth",
+        "total_points": "1",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Miodrag Pivaš",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Billy Gilmour",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Rasmus Højlund",
+        "team": "Man Utd",
+        "total_points": "2",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Callum Wilson",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Crysencio Summerville",
+        "team": "West Ham",
+        "total_points": "7",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jesurun Rak-Sakyi",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Oliver Skipp",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Tomáš Souček",
+        "team": "West Ham",
+        "total_points": "1",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Taylor Harwood-Bellis",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alphonse Areola",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lisandro Martínez",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Richarlison de Andrade",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joško Gvardiol",
+        "team": "Man City",
+        "total_points": "9",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Harry Clarke",
+        "team": "Ipswich",
+        "total_points": "-5",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joachim Andersen",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Moisés Caicedo Corozo",
+        "team": "Chelsea",
+        "total_points": "2",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Henrique Casimiro",
+        "team": "Man Utd",
+        "total_points": "10",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Roman Dixon",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jhon Durán",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jacob Murphy",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sean Longstaff",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Leander Dendoncker",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Trevoh Chalobah",
+        "team": "Crystal Palace",
+        "total_points": "8",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Manning",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Vitalii Mykolenko",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Christie",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Fábio Silva",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kepa Arrizabalaga",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Frank Onyeka",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Youssef Ramalho Chermiti",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Morgan Gibbs-White",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Noni Madueke",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nélson Cabral Semedo",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tommy Doyle",
+        "team": "Wolves",
+        "total_points": "5",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tom Heaton",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lucas Bergvall",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lesley Ugochukwu",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Evan Ferguson",
+        "team": "Brighton",
+        "total_points": "7",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Christian Eriksen",
+        "team": "Man Utd",
+        "total_points": "2",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Danny Ings",
+        "team": "West Ham",
+        "total_points": "8",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jean-Ricner Bellegarde",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tim Ream",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Benoît Badiashile",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Radu Drăgușin",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jack Stephens",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mateo Kovačić",
+        "team": "Man City",
+        "total_points": "2",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nicolás Domínguez",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ben Doak",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Phil Foden",
+        "team": "Man City",
+        "total_points": "3",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mason Mount",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Gabriel Martinelli Silva",
+        "team": "Arsenal",
+        "total_points": "2",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Yasin Ayari",
+        "team": "Brighton",
+        "total_points": "2",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mikel Merino",
+        "team": "Arsenal",
+        "total_points": "8",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Facundo Buonanotte",
+        "team": "Leicester",
+        "total_points": "2",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Caoimhin Kelleher",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Odeluga Offiah",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lino da Cruz Sousa",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Amario Cozier-Duberry",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emerson Leite de Souza Junior",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kai Havertz",
+        "team": "Arsenal",
+        "total_points": "2",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Scott Carson",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ethan Brierley",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Andrey Nascimento dos Santos",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Rico Henry",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mateusz Lis",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Yoane Wissa",
+        "team": "Brentford",
+        "total_points": "10",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Daniel Iversen",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mads Hermansen",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Rob Holding",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ismaïla Sarr",
+        "team": "Crystal Palace",
+        "total_points": "3",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jarrod Bowen",
+        "team": "West Ham",
+        "total_points": "7",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mark O’Mahony",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Sessegnon",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Josh Dasilva",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jadon Sancho",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Sam Johnstone",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jonny Evans",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mohamed Salah",
+        "team": "Liverpool",
+        "total_points": "10",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Federico Chiesa",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Timothy Castagne",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tariq Lamptey",
+        "team": "Brighton",
+        "total_points": "3",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ola Aina",
+        "team": "Nott'm Forest",
+        "total_points": "2",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Taiwo Awoniyi",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Leandro Trossard",
+        "team": "Arsenal",
+        "total_points": "2",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jacob Greaves",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Issa Kaboré",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alfie Whiteman",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Séamus Coleman",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Fabian Schär",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nicolas Jackson",
+        "team": "Chelsea",
+        "total_points": "9",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joe White",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jamie Vardy",
+        "team": "Leicester",
+        "total_points": "8",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Miguel Almirón Rejala",
+        "team": "Newcastle",
+        "total_points": "2",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "James Garner",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marcus Tavernier",
+        "team": "Bournemouth",
+        "total_points": "3",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lewis Dobbin",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Viljami Sinisalo",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Omari Kellyman",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Daniel Castelo Podence",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Martial Godo",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harrison Reed",
+        "team": "Fulham",
+        "total_points": "1",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Guido Rodríguez",
+        "team": "West Ham",
+        "total_points": "2",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Will Alves",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Baleba",
+        "team": "Brighton",
+        "total_points": "3",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "James Hill",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "David Datro Fofana",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Fraser",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ângelo Gabriel Borges Damaceno",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Patterson",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Robin Olsen",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mathias Jensen",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bart Verbruggen",
+        "team": "Brighton",
+        "total_points": "2",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Dango Ouattara",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Emmanuel Dennis",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Yehor Yarmoliuk",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Julián Álvarez",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Tyler Dibling",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Paul Onuachu",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bobby Clark",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kieran Tierney",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Orel Mangala",
+        "team": "Everton",
+        "total_points": "1",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Darwin Núñez Ribeiro",
+        "team": "Liverpool",
+        "total_points": "4",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Josh Bowler",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sugawara Yukinari",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Aaron Wan-Bissaka",
+        "team": "West Ham",
+        "total_points": "2",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bobby De Cordova-Reid",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Manuel Ugarte",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Broadhead",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matheus Luiz Nunes",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jake O'Brien",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Cameron Peupion",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Felipe Rodrigues da Silva",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kosta Nedeljković",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jay Stansfield",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nikola Milenković",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sepp van den Berg",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kevin Mbabu",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Malang Sarr",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jarrad Branthwaite",
+        "team": "Everton",
+        "total_points": "1",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ferdi Kadioglu",
+        "team": "Brighton",
+        "total_points": "6",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mats Wieffer",
+        "team": "Brighton",
+        "total_points": "1",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kyle Walker",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Shea Charles",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Samuel Edozie",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Robert Sánchez",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Sergio Reguilón",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Asmir Begovic",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Conor Townsend",
+        "team": "Ipswich",
+        "total_points": "1",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ricardo Barbosa Pereira",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Massimo Luongo",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harvey Elliott",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Garang Kuol",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rúben Gato Alves Dias",
+        "team": "Man City",
+        "total_points": "7",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Romelu Lukaku Bolingoli",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Chilwell",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "George Hirst",
+        "team": "Ipswich",
+        "total_points": "11",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Daniel Jebbison",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tyrick Mitchell",
+        "team": "Crystal Palace",
+        "total_points": "6",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Myles Peart-Harris",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mahmoud Dahoud",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jonathan Panzo",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nico O'Reilly",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Aaron Ramsdale",
+        "team": "Southampton",
+        "total_points": "4",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Moussa Diaby",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Micky van de Ven",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Igor Thiago Nascimento Rodrigues",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kaden Rodney",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Callum Hudson-Odoi",
+        "team": "Nott'm Forest",
+        "total_points": "2",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Armel Bella-Kotchap",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rodrigo Martins Gomes",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lamare Bogarde",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Noussair Mazraoui",
+        "team": "Man Utd",
+        "total_points": "2",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Cameron Archer",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ezri Konsa Ngoyo",
+        "team": "Aston Villa",
+        "total_points": "2",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Pedro Porro",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alfie Devine",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Elkan Baggott",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Erling Haaland",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Leif Davis",
+        "team": "Ipswich",
+        "total_points": "2",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harry Amass",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Virgil van Dijk",
+        "team": "Liverpool",
+        "total_points": "7",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bilal El Khannouss",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Konstantinos Mavropanos",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Matt Turner",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Juan Larios López",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harry Toffolo",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Toby Collyer",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Asher Agbinone",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kadan Young",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Caleb Wiley",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ethan Pinnock",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "William Saliba",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Altay Bayindir",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rodrigo Bentancur",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dominic Solanke-Mitchell",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Chris Richards",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Rayan Aït-Nouri",
+        "team": "Wolves",
+        "total_points": "6",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "James Justin",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joshua Zirkzee",
+        "team": "Man Utd",
+        "total_points": "4",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Martin Ødegaard",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Cesare Casadei",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jaden Philogene",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mario Lemina",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jack Fletcher",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Adam Wharton",
+        "team": "Crystal Palace",
+        "total_points": "3",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luis Sinisterra",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Michael Keane",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Omar Richards",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Álex Moreno Lopera",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Stephy Mavididi",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Anthony Gordon",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Diego Carlos Santos Silva",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Facundo Pellistri Rebollo",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Josh King",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matt O'Riley",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Wanya Marçal-Madivádua",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jamal Lewis",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jørgen Strand Larsen",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jack Harrison",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Riccardo Calafiori",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luke Cundle",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jan Bednarek",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "André Onana",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Odsonne Edouard",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Deivid Washington de Souza Eugênio",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lewis O'Brien",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bukayo Saka",
+        "team": "Arsenal",
+        "total_points": "9",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alex Mighten",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Djed Spence",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Hamza Choudhury",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Wesley Fofana",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lucas Digne",
+        "team": "Aston Villa",
+        "total_points": "7",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joe Aribo",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Killian Cahill",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Fábio Ferreira Vieira",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Guglielmo Vicario",
+        "team": "Spurs",
+        "total_points": "3",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tony Yogane",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Fraser",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Christian Walton",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matthijs de Ligt",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jack Hinshelwood",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Antoine Semenyo",
+        "team": "Bournemouth",
+        "total_points": "1",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Will Dennis",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Omari Giraud-Hutchinson",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dane Scarlett",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joe Lumley",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dwight McNeil",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kim Ji-soo",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Franco Umeh-Chibueze",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Andy Irving",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Karl Hein",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nathaniel Clyne",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Saša Lukić",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kevin De Bruyne",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Norberto Murara Neto",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Tyrell Malacia",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lucas Tolentino Coelho de Lima",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lewis Dunk",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mason Holgate",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kurt Zouma",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Sékou Mara",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Antony Matheus dos Santos",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dara O'Shea",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kalvin Phillips",
+        "team": "Ipswich",
+        "total_points": "2",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ibrahima Konaté",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Chadi Riad Dnanou",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Freddie Ladapo",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Levi Colwill",
+        "team": "Chelsea",
+        "total_points": "2",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nick Pope",
+        "team": "Newcastle",
+        "total_points": "2",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jorge Luiz Frello Filho",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Oliwier Zych",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luke Woolfenden",
+        "team": "Ipswich",
+        "total_points": "1",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Łukasz Fabiański",
+        "team": "West Ham",
+        "total_points": "3",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Idrissa Gueye",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joe Gomez",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dominic Calvert-Lewin",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Yerson Mosquera",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sil Swinkels",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Konstantinos Tsimikas",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Christian Nørgaard",
+        "team": "Brentford",
+        "total_points": "2",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emiliano Martínez Romero",
+        "team": "Aston Villa",
+        "total_points": "2",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Declan Rice",
+        "team": "Arsenal",
+        "total_points": "5",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Dejan Kulusevski",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pascal Groß",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Gabriel dos Santos Magalhães",
+        "team": "Arsenal",
+        "total_points": "1",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Cody Gakpo",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Salah-Eddine Oulad M'hand",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mohammed Kudus",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Benicio Baker-Boaitey",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Vitaly Janelt",
+        "team": "Brentford",
+        "total_points": "5",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Adama Traoré",
+        "team": "Fulham",
+        "total_points": "3",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jens Cajuste",
+        "team": "Ipswich",
+        "total_points": "2",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tommy Setford",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alexis Mac Allister",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Endo Wataru",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "João Pedro Ferreira Silva",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ashley Phillips",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Keane Lewis-Potter",
+        "team": "Brentford",
+        "total_points": "5",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Johnson",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Michael Golding",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "João Félix Sequeira",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Remi Matthews",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alfie Gilchrist",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nayef Aguerd",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emile Smith Rowe",
+        "team": "Fulham",
+        "total_points": "6",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Enes Ünal",
+        "team": "Bournemouth",
+        "total_points": "1",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Lucas Bergström",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kacper Kozłowski",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Francisco Evanilson de Lima Barbosa",
+        "team": "Bournemouth",
+        "total_points": "8",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Axel Tuanzebe",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Gabriel Fernando de Jesus",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Iliman Ndiaye",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "David Raya Martin",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Enso González",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Archie Gray",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Christopher Nkunku",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Manuel Akanji",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kaelan Casey",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Gravenberch",
+        "team": "Liverpool",
+        "total_points": "2",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joe Willock",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mark Flekken",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lewis Cook",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alex Iwobi",
+        "team": "Fulham",
+        "total_points": "11",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ethan Nwaneri",
+        "team": "Arsenal",
+        "total_points": "1",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ross Stewart",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matt Doherty",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alejo Véliz",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ilkay Gündogan",
+        "team": "Man City",
+        "total_points": "1",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Isaac Hayden",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Wilson Odobert",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Conor Bradley",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tom Cairney",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jarell Quansah",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jacob Ramsey",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emiliano Buendía Stati",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "James McAtee",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Andrew Robertson",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Luke Harris",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Youri Tielemans",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "João Neves Virgínia",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Oleksandr Zinchenko",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Francisco Jorge Tomás Oliveira",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ederson Santana de Moraes",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Andrew Omobamidele",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Norberto Bercique Gomes Betuncal",
+        "team": "Everton",
+        "total_points": "7",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Diogo Dalot Teixeira",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pape Matar Sarr",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Danny Welbeck",
+        "team": "Brighton",
+        "total_points": "7",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Yankuba Minteh",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Aké",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bernd Leno",
+        "team": "Fulham",
+        "total_points": "3",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jamaal Lascelles",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Axel Disasi",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ismeal Kabia",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kevin Schade",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Victor Kristiansen",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kyle Walker-Peters",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Daniel Bentley",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ivan Toney",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Soler",
+        "team": "West Ham",
+        "total_points": "1",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Antonee Robinson",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Romain Faivre",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "James Ward-Prowse",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Patson Daka",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Illia Zabarnyi",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Gavin Bazunu",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sven Botman",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Hugo Bueno López",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Danny Ward",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Samuel Amo-Ameyaw",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Joe Gauci",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "João Pedro Junqueira de Jesus",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Justin Kluivert",
+        "team": "Bournemouth",
+        "total_points": "2",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Martin Dúbravka",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Flynn Downes",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alejandro Garnacho",
+        "team": "Man Utd",
+        "total_points": "2",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ronnie Edwards",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Edson Álvarez Velázquez",
+        "team": "West Ham",
+        "total_points": "2",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jack Grealish",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marcus Myers-Harness",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jack Taylor",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Simon Adingra",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Mee",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Leon Chiwome",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Eric da Silva Moreira",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Luis Guilherme Lira dos Santos",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joe Hodge",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Chiedozie Ogbene",
+        "team": "Ipswich",
+        "total_points": "1",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harrison Armstrong",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Carney Chukwuemeka",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Tom King",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Wout Faes",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Leny Yoro",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pedro Lomba Neto",
+        "team": "Chelsea",
+        "total_points": "5",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ian Maatsen",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Harry Winks",
+        "team": "Leicester",
+        "total_points": "4",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mads Roerslev Rasmussen",
+        "team": "Brentford",
+        "total_points": "4",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jurriën Timber",
+        "team": "Arsenal",
+        "total_points": "2",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Saša Kalajdžić",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Anthony Elanga",
+        "team": "Nott'm Forest",
+        "total_points": "2",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Julio Enciso",
+        "team": "Brighton",
+        "total_points": "1",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Naouirou Ahamada",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jeremy Sarmiento Morante",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ayden Heaven",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Vladimír Coufal",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marc Cucurella Saseta",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Toti António Gomes",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Cristian Romero",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dan Burn",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Destiny Udogie",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jordan Pickford",
+        "team": "Everton",
+        "total_points": "2",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Boubacar Traoré",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Stefan Bajčetić Maquieira",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mikkel Damsgaard",
+        "team": "Brentford",
+        "total_points": "2",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luis Díaz",
+        "team": "Liverpool",
+        "total_points": "5",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Enzo Barrenechea",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Vinícius Alves Morais",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pervis Estupiñán",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "James Milner",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Trevitt",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Enzo Fernández",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Luke Shaw",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Fábio Freitas Gouveia Carvalho",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jérémy Doku",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marcus Bettinelli",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Alisson Ramses Becker",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Aaron Hickey",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Vítezslav Jaros",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Alex McCarthy",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Neal Maupay",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Steven Benda",
+        "team": "Fulham",
+        "total_points": "0",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Dean Henderson",
+        "team": "Crystal Palace",
+        "total_points": "8",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ki-Jana Hoever",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Cheick Doucouré",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Scott McTominay",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Wilfred Ndidi",
+        "team": "Leicester",
+        "total_points": "2",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Maxence Lacroix",
+        "team": "Crystal Palace",
+        "total_points": "5",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "John Ruddy",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Caleb Okoli",
+        "team": "Leicester",
+        "total_points": "1",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Odysseas Vlachodimos",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "George Earthy",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Daichi Kamada",
+        "team": "Crystal Palace",
+        "total_points": "1",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Reece James",
+        "team": "Chelsea",
+        "total_points": "2",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Georginio Rutter",
+        "team": "Brighton",
+        "total_points": "5",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Conor Chaplin",
+        "team": "Ipswich",
+        "total_points": "5",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Santiago Bueno",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Corrie Ndaba",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kenny Tete",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pablo Sarabia",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Diogo Teixeira da Silva",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kortney Hause",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Liam Delap",
+        "team": "Ipswich",
+        "total_points": "5",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bastien Meupiyou",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tino Livramento",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tyler Adams",
+        "team": "Bournemouth",
+        "total_points": "1",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Danilo dos Santos de Oliveira",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jenson Metcalfe",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marcus Rashford",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "James Maddison",
+        "team": "Spurs",
+        "total_points": "2",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Daniel Muñoz",
+        "team": "Crystal Palace",
+        "total_points": "5",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bruno Guimarães Rodriguez Moura",
+        "team": "Newcastle",
+        "total_points": "2",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Fraser Forster",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Elliot Anderson",
+        "team": "Nott'm Forest",
+        "total_points": "5",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Charlie Taylor",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bryan Mbeumo",
+        "team": "Brentford",
+        "total_points": "15",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Matty Cash",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Adam Lallana",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sandro Tonali",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Issa Diop",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Igor Julio dos Santos de Paulo",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joelinton Cássio Apolinário de Lira",
+        "team": "Newcastle",
+        "total_points": "2",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "John McGinn",
+        "team": "Aston Villa",
+        "total_points": "2",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Oscar Bobb",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Pedro Cardoso de Lima",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Pierre-Emile Højbjerg",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Collins",
+        "team": "Brentford",
+        "total_points": "1",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jesper Lindstrøm",
+        "team": "Everton",
+        "total_points": "1",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Marc Guéhi",
+        "team": "Crystal Palace",
+        "total_points": "6",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Mathias Jorgensen",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "William Osula",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Harry Souttar",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jean-Philippe Mateta",
+        "team": "Crystal Palace",
+        "total_points": "8",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Nelson",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Bernardo Veiga de Carvalho e Silva",
+        "team": "Man City",
+        "total_points": "3",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Filip Jørgensen",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "David Brooks",
+        "team": "Bournemouth",
+        "total_points": "1",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Son Heung-min",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Solly March",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Manor Solomon",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nathaniel Phillips",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kieran Trippier",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "John Stones",
+        "team": "Man City",
+        "total_points": "1",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Sam Morsy",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jayden Meghoma",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lewis Hall",
+        "team": "Newcastle",
+        "total_points": "4",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Marc Guiu Paz",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Tom Cannon",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ben Davies",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tyler Morton",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matheus França de Oliveira",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Calvin Bassey",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Eddie Nketiah",
+        "team": "Crystal Palace",
+        "total_points": "1",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Andreas Hoelgebaum Pereira",
+        "team": "Fulham",
+        "total_points": "3",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Caleb Kporha",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Matheus Santos Carneiro Da Cunha",
+        "team": "Wolves",
+        "total_points": "9",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Amadou Onana",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Morgan Rogers",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Reiss Nelson",
+        "team": "Fulham",
+        "total_points": "1",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tosin Adarabioyo",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Matt Targett",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Filip Marschall",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jan Paul van Hecke",
+        "team": "Brighton",
+        "total_points": "1",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jean-Clair Todibo",
+        "team": "West Ham",
+        "total_points": "1",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jack Clarke",
+        "team": "Ipswich",
+        "total_points": "1",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Chris Mepham",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ollie Watkins",
+        "team": "Aston Villa",
+        "total_points": "2",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jorge Cuenca Barreno",
+        "team": "Fulham",
+        "total_points": "1",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rico Lewis",
+        "team": "Man City",
+        "total_points": "6",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Julián Araujo Zúñiga",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Murillo Santiago Costa dos Santos",
+        "team": "Nott'm Forest",
+        "total_points": "2",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "James Tarkowski",
+        "team": "Everton",
+        "total_points": "1",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Joël Veltman",
+        "team": "Brighton",
+        "total_points": "1",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jaidon Anthony",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kamaldeen Sulemana",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Timo Werner",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tyrone Mings",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ethan Wheatley",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Matz Sels",
+        "team": "Nott'm Forest",
+        "total_points": "5",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ryan Yates",
+        "team": "Nott'm Forest",
+        "total_points": "8",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Amad Diallo",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Josh Nichols",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Sam Szmodics",
+        "team": "Ipswich",
+        "total_points": "7",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Malo Gusto",
+        "team": "Chelsea",
+        "total_points": "2",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Butler-Oyedeji",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Hwang Ui-jo",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jakub Stolarczyk",
+        "team": "Leicester",
+        "total_points": "0",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lloyd Kelly",
+        "team": "Newcastle",
+        "total_points": "1",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mateus Gonçalo Espanha Fernandes",
+        "team": "Southampton",
+        "total_points": "2",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Valentín Barco",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Dean Huijsen",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Roberto Forbs Borges",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "André Trindade da Costa Neto",
+        "team": "Wolves",
+        "total_points": "1",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Max Aarons",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rhys Williams",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Michail Antonio",
+        "team": "West Ham",
+        "total_points": "2",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ibrahim Osman",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Lewis Miley",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Nathan Wood-Gordon",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Rodrigo Muniz Carvalho",
+        "team": "Fulham",
+        "total_points": "1",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Benjamin White",
+        "team": "Arsenal",
+        "total_points": "4",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Cameron Burgess",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Abdul Fatawu",
+        "team": "Leicester",
+        "total_points": "2",
+        "opponent_team": "16",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Dominik Szoboszlai",
+        "team": "Liverpool",
+        "total_points": "1",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tim Iroegbunam",
+        "team": "Everton",
+        "total_points": "0",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Neco Williams",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Roméo Lavia",
+        "team": "Chelsea",
+        "total_points": "4",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Leon Bailey",
+        "team": "Aston Villa",
+        "total_points": "4",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Niclas Füllkrug",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Harvey Barnes",
+        "team": "Newcastle",
+        "total_points": "2",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Brennan Johnson",
+        "team": "Spurs",
+        "total_points": "1",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Andrew Moran",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Harry Maguire",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mark Travers",
+        "team": "Bournemouth",
+        "total_points": "5",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Will Smallbone",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Mykhailo Mudryk",
+        "team": "Chelsea",
+        "total_points": "1",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Imari Samuels",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Hamed Traorè",
+        "team": "Bournemouth",
+        "total_points": "0",
+        "opponent_team": "2",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Stefan Ortega Moreno",
+        "team": "Man City",
+        "total_points": "0",
+        "opponent_team": "17",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Renato Palma Veiga",
+        "team": "Chelsea",
+        "total_points": "0",
+        "opponent_team": "15",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Eberechi Eze",
+        "team": "Crystal Palace",
+        "total_points": "6",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Samuel Iling-Junior",
+        "team": "Aston Villa",
+        "total_points": "0",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Boubacar Kamara",
+        "team": "Aston Villa",
+        "total_points": "1",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Ali Al-Hamadi",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Willy Boly",
+        "team": "Nott'm Forest",
+        "total_points": "0",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Carlos Alcaraz Durán",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Victor Lindelöf",
+        "team": "Man Utd",
+        "total_points": "1",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ross Barkley",
+        "team": "Aston Villa",
+        "total_points": "5",
+        "opponent_team": "3",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "James McConnell",
+        "team": "Liverpool",
+        "total_points": "0",
+        "opponent_team": "1",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Kobbie Mainoo",
+        "team": "Man Utd",
+        "total_points": "0",
+        "opponent_team": "19",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ramón Sosa",
+        "team": "Nott'm Forest",
+        "total_points": "1",
+        "opponent_team": "11",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Sander Berge",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Maldini Kacurri",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Adam Armstrong",
+        "team": "Southampton",
+        "total_points": "0",
+        "opponent_team": "13",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Aaron Cresswell",
+        "team": "West Ham",
+        "total_points": "0",
+        "opponent_team": "14",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Emil Krafth",
+        "team": "Newcastle",
+        "total_points": "0",
+        "opponent_team": "6",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Jakub Kiwior",
+        "team": "Arsenal",
+        "total_points": "1",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Kristoffer Ajer",
+        "team": "Brentford",
+        "total_points": "0",
+        "opponent_team": "10",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Will Hughes",
+        "team": "Crystal Palace",
+        "total_points": "2",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "David Ozoh",
+        "team": "Crystal Palace",
+        "total_points": "0",
+        "opponent_team": "18",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Jakub Moder",
+        "team": "Brighton",
+        "total_points": "0",
+        "opponent_team": "20",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Cieran Slicker",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Raheem Sterling",
+        "team": "Arsenal",
+        "total_points": "0",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Raúl Jiménez",
+        "team": "Fulham",
+        "total_points": "2",
+        "opponent_team": "8",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Bryan Gil Salvatierra",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Myles Lewis-Skelly",
+        "team": "Arsenal",
+        "total_points": "1",
+        "opponent_team": "12",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "Giovani Lo Celso",
+        "team": "Spurs",
+        "total_points": "0",
+        "opponent_team": "7",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Tawanda Chirewa",
+        "team": "Wolves",
+        "total_points": "0",
+        "opponent_team": "5",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Cameron Humphreys",
+        "team": "Ipswich",
+        "total_points": "0",
+        "opponent_team": "4",
+        "was_home": "False"
+    },
+    {
+        "GW": null,
+        "name": "Ashley Young",
+        "team": "Everton",
+        "total_points": "6",
+        "opponent_team": "9",
+        "was_home": "True"
+    },
+    {
+        "GW": null,
+        "name": "James Bree",
+        "team": "Southampton",
+        "total_points": "1",
+        "opponent_team": "13",
+        "was_home": "False"
+    }
+]
